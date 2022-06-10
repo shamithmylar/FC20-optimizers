@@ -8,7 +8,10 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+<<<<<<< HEAD
     "firebase": "^9.8.3",
+=======
+>>>>>>> e6870aa5e8ff88bd57e429d77d757d95367ca959
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },

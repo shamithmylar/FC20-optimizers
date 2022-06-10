@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
 <div class="container container-home flex-column  flex-md-row">
   <div class="card card-home" style="width: 18rem;">
   <img src="../assets/images/trash.png" class="card-img-top" alt="...">
@@ -28,6 +29,11 @@
   </div>
 </div>
 
+=======
+  <div class="home">
+  This is home
+  </div>
+>>>>>>> e6870aa5e8ff88bd57e429d77d757d95367ca959
 </template>
 
 <script>
@@ -35,6 +41,7 @@
 
 
 export default {
+<<<<<<< HEAD
   name: 'Home',
   
 }
@@ -64,3 +71,9 @@ export default {
     background: #3BAC01;
   }
 </style>
+=======
+  name: 'HomeView',
+  
+}
+</script>
+>>>>>>> e6870aa5e8ff88bd57e429d77d757d95367ca959

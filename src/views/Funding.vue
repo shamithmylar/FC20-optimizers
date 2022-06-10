@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
 <div class="container container-fund flex-column flex-md-row container-fund">
   <div class="card card-fund" style="width: 18rem;">
   <img src="../assets/images/localfund.png" class="card-img-top" alt="...">
@@ -28,6 +29,11 @@
 </template>
 
 
+=======
+  <h1>this is funding section</h1>
+</template>
+
+>>>>>>> e6870aa5e8ff88bd57e429d77d757d95367ca959
 <script>
 export default {
 
@@ -36,6 +42,7 @@ export default {
 
 <style>
 
+<<<<<<< HEAD
 
   .btn-outline-success{
     width: 95%;
@@ -61,4 +68,6 @@ export default {
   }
 
 
+=======
+>>>>>>> e6870aa5e8ff88bd57e429d77d757d95367ca959
 </style>
